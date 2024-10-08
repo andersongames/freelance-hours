@@ -1,3 +1,5 @@
-<div>
-    <!-- Life is available only in the present moment. - Thich Nhat Hanh -->
-</div>
+<x-layouts.app>
+    show
+    <livewire:projects.show :project="$project" />
+    <livewire:projects.proposals :$project />
+</x-layouts.app>
