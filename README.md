@@ -15,6 +15,12 @@ Developed during a Rocketseat event.
   <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="80%">
 </p>
 
+## Tech stack
+- [**PHP**](https://www.php.net/): Programming language used;
+- [**Laravel**](https://laravel.com/): PHP framework used for the structure and organization of the project;
+- [**Livewire**](https://laravel-livewire.com/): Used to create dynamic and reactive interfaces without leaving Laravel;
+- [**Tailwind**](https://tailwindcss.com/): CSS framework that facilitates the development of modern and responsive interfaces.
+
 ## How to run
 - `cd freelance-hours`
 - Setup the .env file
